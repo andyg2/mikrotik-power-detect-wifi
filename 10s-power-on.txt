@@ -1,0 +1,21 @@
+[admin@MikroTik] > /interface/wireless/scan wlan1 duration=10
+Flags: A - ACTIVE; P - PRIVACY
+Columns: ADDRESS, SSID, CHANNEL, SIG, NF, SNR
+   ADDRESS            SSID                 CHANNEL               SIG  NF    SNR
+AP D8:42:F7:5B:B0:9A  xxxxxxxxxxxxxxxxxxx  2412/20-Ce/gn(17dBm)  -79  -99    20
+AP 78:58:60:D0:DD:50  xxxxxx               2412/20/gn(17dBm)     -82  -99    17
+AP A4:BD:C4:D3:E1:50  xxxxxxxxxxxxxxxx     2422/20/gn(17dBm)     -76  -100   24
+AP 5A:E5:21:00:A4:21  xxxxxxxxxx           2437/20-eC/gn(17dBm)  -76  -100   24
+AP 58:D9:D5:48:C4:68  xxxxxxx              2442/20/gn(17dBm)     -83  -100   17
+AP 84:74:60:DC:06:E3  xxxxxxxxxx           2452/20-eC/gn(17dBm)  -75  -100   25
+AP FC:EC:DA:F7:18:0C  xxxxxx               2462/20/gn(17dBm)     -58  -99    41
+AP 0E:EC:DA:F7:18:0C  xxxxxxxxx            2462/20/gn(17dBm)     -57  -99    42
+AP 84:74:62:D7:3A:5C  xxxxxxxxxxxx         2462/20-eC/gn(17dBm)  -82  -99    17
+AP 42:08:37:28:19:93  xxxxxxxx             2462/20/gn(17dBm)     -17  -99    82
+AP 42:08:37:68:19:93                       2462/20/gn(17dBm)     -17  -99    82
+AP 42:08:37:48:19:93                       2462/20/gn(17dBm)     -18  -99    81
+AP 1E:EC:DA:F7:18:0C                       2462/20/gn(17dBm)     -58  -99    41
+AP 84:74:60:3E:09:37  xxxxxxxxxxxxxxxxxx   2472/20-eC/gn(17dBm)  -68  -98    30
+AP D6:9D:85:D3:37:8B  xxxxxxx              2472/20/gn(17dBm)     -78  -98    20
+AP 84:74:62:84:DD:11  xxxxxxxxxxxxxxxxx    2437/20-eC/gn(17dBm)  -90  -100   10
+

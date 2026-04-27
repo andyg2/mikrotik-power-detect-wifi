@@ -1,0 +1,11 @@
+[admin@MikroTik] > /interface/wireless/scan wlan1 duration=10
+Flags: A - ACTIVE; P - PRIVACY
+Columns: ADDRESS, SSID, CHANNEL, SIG, NF, SNR
+   ADDRESS            SSID                 CHANNEL               SIG  NF    SNR
+AP FC:EC:DA:F7:18:0C  xxxxxx               2462/20/gn(17dBm)     -58  -99    41
+AP 0E:EC:DA:F7:18:0C  xxxxxxxxx            2462/20/gn(17dBm)     -57  -99    42
+AP 42:08:37:28:19:93  xxxxxxxx             2462/20/gn(17dBm)     -17  -99    82
+AP 42:08:37:68:19:93                       2462/20/gn(17dBm)     -17  -99    82
+AP 42:08:37:48:19:93                       2462/20/gn(17dBm)     -18  -99    81
+AP 1E:EC:DA:F7:18:0C                       2462/20/gn(17dBm)     -58  -99    41
+
